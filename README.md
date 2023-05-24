@@ -1,4 +1,4 @@
-# BuildingYourFirstMachineLearningSolution
+# Building your first Machine Learning Solution - course
 
 Materials from the Pluralsight course: [Building Your First Machine Learning Solution](https://www.pluralsight.com/courses/building-machine-learning-solution)
 
